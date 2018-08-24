@@ -7,7 +7,7 @@ return play;
 }
 
 function johnLennonFacts(facts) {
-  var exclamation = [];
+  const exclamation = [];
   let i = 0;
   while (i < facts.legnth) {
     exclamation.push(`${facts[i]}!!!`);
