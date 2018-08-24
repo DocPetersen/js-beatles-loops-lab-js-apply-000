@@ -20,6 +20,6 @@ function iLoveTheBeatles(n) {
   const array = 0;
   
   do  {
-    
+    array.push()
   }
 }
