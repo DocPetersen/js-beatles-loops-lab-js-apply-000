@@ -16,6 +16,6 @@ function johnLennonFacts(facts) {
   return exclamation;
 }
 
-function iLoveTheBeatles(number) {
+function iLoveTheBeatles(n) {
   
 }
