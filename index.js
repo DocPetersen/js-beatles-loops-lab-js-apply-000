@@ -10,6 +10,6 @@ function johnLennonFacts(facts) {
   var exclamation = [];
   let i = 0;
   while (i < facts.legnth) {
-    exclamation. 
+    exclamation.push(`${facts}) 
   }
 }
