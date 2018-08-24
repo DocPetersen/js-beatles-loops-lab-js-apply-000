@@ -9,5 +9,5 @@ return array;
 function johnLennonFacts(facts) {
   var array = [];
   let i = 0;
-  while i <
+  while i < facts.legnth
 }
