@@ -11,7 +11,7 @@ function johnLennonFacts(facts) {
   let i = 0;
   while (i < facts.length) {
     exclamation.push(`${facts[i]}!!!`);
-    i ++;
+    i++;
   }
   return exclamation;
 }
@@ -20,7 +20,7 @@ function iLoveTheBeatles(n) {
   var array = 0;
   do {
     array.push("I love the Beatles!");
-    n ++;
+    n++;
   } while (n < 15);
   
   return array;
