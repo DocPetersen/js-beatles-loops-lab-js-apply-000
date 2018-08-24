@@ -1,15 +1,15 @@
 function theBeatlesPlay(musicians, instruments) {
-  var array = [];
+  var play = [];
   for (var i = 0; i < musicians.length; i++) {
-    array.push(`${musicians[i]} plays ${instruments[i]}`);
+    play.push(`${musicians[i]} plays ${instruments[i]}`);
 }
-return array;
+return play;
 }
 
 function johnLennonFacts(facts) {
-  var array = [];
+  var exclamation = [];
   let i = 0;
   while (i < facts.legnth) {
-    array  
+    exclamation. 
   }
 }
