@@ -8,5 +8,6 @@ return array;
 
 function johnLennonFacts(facts) {
   var array = [];
-  let i = 0
+  let i = 0;
+  while i = 
 }
