@@ -10,6 +10,6 @@ function johnLennonFacts(facts) {
   var array = [];
   let i = 0;
   while (i < facts.legnth) {
-    
+    array  
   }
 }
