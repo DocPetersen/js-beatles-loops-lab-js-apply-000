@@ -7,5 +7,6 @@ return array;
 }
 
 function johnLennonFacts(facts) {
-  
+  var array = [];
+  for 
 }
